@@ -1,0 +1,15 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Distributed Computing}{6}{0}{1}
+\beamer@sectionintoc {2}{\textbf {THANK YOU!!}}{16}{0}{2}
+\beamer@sectionintoc {3}{\textbf {Grid Computing}}{17}{0}{3}
+\beamer@sectionintoc {4}{\textbf {Cluster Computing}}{25}{0}{4}
+\beamer@sectionintoc {5}{\textbf {Utility Computing}}{31}{0}{5}
+\beamer@sectionintoc {6}{\textbf {Cloud Computing}}{37}{0}{6}
+\beamer@sectionintoc {7}{\textbf {Thank You!!}}{39}{0}{7}
+\beamer@sectionintoc {8}{\textbf {Cloud Computing}}{40}{0}{8}
+\beamer@sectionintoc {9}{\textbf {Evolution of Cloud Computing }}{64}{0}{9}
+\beamer@sectionintoc {10}{\textbf {THANK YOU!!}}{80}{0}{10}
+\beamer@sectionintoc {11}{\textbf {CLOUD COMPUTING ARCHITECTURE}}{81}{0}{11}
+\beamer@sectionintoc {12}{\textbf {THANK YOU!!}}{97}{0}{12}
+\beamer@sectionintoc {13}{\textbf {Cloud Computing Architecture}}{98}{0}{13}
+\beamer@sectionintoc {14}{\textbf {THANK YOU!!}}{127}{0}{14}
